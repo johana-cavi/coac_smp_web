@@ -1,3 +1,21 @@
+import 'package:flutter/material.dart';
+// 
+
+class head extends StatelessWidget {
+  const head({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return 
+      Container(
+        color: Color.fromRGBO(53, 152, 55, 1.0),
+        height: 80,
+      );
+  }
+}
+
+/*
+
 import 'dart:math';
 
 import 'package:flutter/material.dart';
@@ -31,4 +49,4 @@ class Titulo_Enc extends StatelessWidget {
       ),
     );
   }
-}
+}*/

@@ -1,6 +1,5 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:web_coac_smp/header.dart';
 import 'package:web_coac_smp/responsive/responsive_widget.dart';
 
 class Ahorro_Vista extends ResponsiveWidget {
